@@ -1,0 +1,139 @@
+{
+  "registry_version": "2.4",
+  "audit_cycle": "Q4-2026",
+  "updated_at": "2026-08-15T00:00:00Z",
+  "services": [
+    {
+      "service_id": "edge-cache",
+      "display_name": "Edge Cache",
+      "namespace": "edge-runtime",
+      "workload": "edge-cache",
+      "owner": "Edge Runtime",
+      "repo_name": "edge-cache-3830",
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "auth-gateway",
+      "display_name": "Auth Gateway",
+      "namespace": "identity",
+      "workload": "auth-gateway",
+      "owner": "Identity & Access",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "event-collector",
+      "display_name": "Event Collector",
+      "namespace": "data-pipeline",
+      "workload": "event-collector",
+      "owner": "Data Platform",
+      "repo_name": "event-collector-3830",
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "query-router",
+      "display_name": "Query Router",
+      "namespace": "data-pipeline",
+      "workload": "query-router",
+      "owner": "Data Platform",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "notebook-runner",
+      "display_name": "Notebook Runner",
+      "namespace": "ml-workbench",
+      "workload": "notebook-runner",
+      "owner": "ML Platform",
+      "repo_name": "notebook-runner-3830",
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "model-registry",
+      "display_name": "Model Registry",
+      "namespace": "ml-workbench",
+      "workload": "model-registry",
+      "owner": "ML Platform",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "audit-exporter",
+      "display_name": "Audit Exporter",
+      "namespace": "compliance",
+      "workload": "audit-exporter",
+      "owner": "Compliance Engineering",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "feature-flags",
+      "display_name": "Feature Flags",
+      "namespace": "internal-tools",
+      "workload": "feature-flags",
+      "owner": "Developer Experience",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "docs-portal",
+      "display_name": "Docs Portal",
+      "namespace": "internal-tools",
+      "workload": "docs-portal",
+      "owner": "Developer Experience",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "upload-service",
+      "display_name": "Upload Service",
+      "namespace": "edge-runtime",
+      "workload": "upload-service",
+      "owner": "Edge Runtime",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "anomaly-detector",
+      "display_name": "Anomaly Detector",
+      "namespace": "ml-workbench",
+      "workload": "anomaly-detector",
+      "owner": "ML Platform",
+      "repo_name": null,
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    },
+    {
+      "service_id": "orbit-query-engine",
+      "display_name": "Orbit Query Engine",
+      "namespace": "data-pipeline",
+      "workload": "orbit-query-engine",
+      "owner": "Data Platform",
+      "repo_name": "orbit-query-engine-3830",
+      "code_url": null,
+      "freshness": "unknown",
+      "last_release_seen": null
+    }
+  ]
+}
