@@ -10,9 +10,9 @@
       "workload": "edge-cache",
       "owner": "Edge Runtime",
       "repo_name": "edge-cache-3830",
-      "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "code_url": "https://github.com/komal74784391-netizen/edge-cache-3830",
+      "freshness": "stale",
+      "last_release_seen": "2026-09-20T08:15:00Z"
     },
     {
       "service_id": "auth-gateway",
@@ -22,8 +22,8 @@
       "owner": "Identity & Access",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "fresh",
+      "last_release_seen": "2026-11-18T08:15:00Z"
     },
     {
       "service_id": "event-collector",
@@ -32,9 +32,9 @@
       "workload": "event-collector",
       "owner": "Data Platform",
       "repo_name": "event-collector-3830",
-      "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "code_url": "https://github.com/komal74784391-netizen/event-collector-3830",
+      "freshness": "stale",
+      "last_release_seen": "2026-10-18T08:15:00Z"
     },
     {
       "service_id": "query-router",
@@ -44,8 +44,8 @@
       "owner": "Data Platform",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "stale",
+      "last_release_seen": "2026-10-19T08:15:00Z"
     },
     {
       "service_id": "notebook-runner",
@@ -54,9 +54,9 @@
       "workload": "notebook-runner",
       "owner": "ML Platform",
       "repo_name": "notebook-runner-3830",
-      "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "code_url": "https://github.com/komal74784391-netizen/notebook-runner-3830",
+      "freshness": "stale",
+      "last_release_seen": "2026-08-23T08:15:00Z"
     },
     {
       "service_id": "model-registry",
@@ -66,8 +66,8 @@
       "owner": "ML Platform",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "fresh",
+      "last_release_seen": "2026-11-10T08:15:00Z"
     },
     {
       "service_id": "audit-exporter",
@@ -77,8 +77,8 @@
       "owner": "Compliance Engineering",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "stale",
+      "last_release_seen": "2026-10-09T08:15:00Z"
     },
     {
       "service_id": "feature-flags",
@@ -88,8 +88,8 @@
       "owner": "Developer Experience",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "stale",
+      "last_release_seen": "2026-10-20T08:15:00Z"
     },
     {
       "service_id": "docs-portal",
@@ -99,8 +99,8 @@
       "owner": "Developer Experience",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "fresh",
+      "last_release_seen": "2026-11-16T08:15:00Z"
     },
     {
       "service_id": "upload-service",
@@ -110,8 +110,8 @@
       "owner": "Edge Runtime",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "stale",
+      "last_release_seen": "2026-10-16T08:15:00Z"
     },
     {
       "service_id": "anomaly-detector",
@@ -121,8 +121,8 @@
       "owner": "ML Platform",
       "repo_name": null,
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "fresh",
+      "last_release_seen": "2026-11-02T08:15:00Z"
     },
     {
       "service_id": "orbit-query-engine",
@@ -132,8 +132,8 @@
       "owner": "Data Platform",
       "repo_name": "orbit-query-engine-3830",
       "code_url": null,
-      "freshness": "unknown",
-      "last_release_seen": null
+      "freshness": "stale",
+      "last_release_seen": "2026-10-19T08:15:00Z"
     }
   ]
 }
